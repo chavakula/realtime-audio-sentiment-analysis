@@ -25,6 +25,12 @@ audio player, and per-speaker summaries.
                                                           WebSocket
 ```
 
+## Demo
+
+https://github.com/user-attachments/assets/5598660e-d190-4ce3-b3c4-e700e33612f2
+
+
+
 ## Tech Stack
 
 | Component | Technology |
